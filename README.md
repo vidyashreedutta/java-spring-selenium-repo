@@ -9,12 +9,13 @@ years.  Its nice to have all in one place. Helps me to refer or if i want to sta
 
 # Topics
 
-  * Spring Boot Rest API
+  * Spring Boot Rest API (My First Sample Rest API)
   * Java 8 Features 
   * Spring Boot JPA (Connect with H2 Database)
   * Spring Boot Rest application (Consume RestService using Rest Template)
   * Junit 4 Test cases
   * Spring Boot Selenium Cucumber
+  * Developed all in Maven 
 
 
 
