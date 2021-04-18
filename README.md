@@ -1,4 +1,4 @@
-# java-spring-selenium-repo
+# Java-Spring-Selenium-repo
 
 # Java Project
 
