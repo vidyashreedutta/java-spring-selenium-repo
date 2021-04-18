@@ -9,9 +9,10 @@ years.  Its nice to have all in one place. Helps me to refer or if i want to sta
 
 # Topics
 
-  * Java 8 Features Stream API, Optional , Functional Interfaces 
   * Spring Boot Rest API
+  * Java 8 Features 
   * Spring Boot JPA (Connect with H2 Database)
+  * Spring Boot Rest application (Consume RestService using Rest Template)
   * Junit 4 Test cases
   * Spring Boot Selenium Cucumber
 
